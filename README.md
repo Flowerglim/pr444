@@ -8,3 +8,4 @@ git add . <br>
 git commit -m "Initial commit"<br>
 git branch -M main<br>
 git remote add origin <https://github.com/Flowerglim/pr444><br>
+Установлен пакет gh-pages, путём ввода команды: npm install --save-dev gh-pages в терминале<br>
